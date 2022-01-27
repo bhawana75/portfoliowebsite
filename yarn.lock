@@ -6217,6 +6217,11 @@
   dependencies:
     "html-escaper" "^2.0.0"
 
+"ityped@^1.0.3":
+  "integrity" "sha512-46Qnh3qs+6EJlWDHmvWRW6qiz5jFy2mkh9UvtTvQmLJMZIjKrdz4du68le7hLX4tAWCp6QTKiq/OuLv6huHxZg=="
+  "resolved" "https://registry.npmjs.org/ityped/-/ityped-1.0.3.tgz"
+  "version" "1.0.3"
+
 "jest-changed-files@^24.9.0":
   "integrity" "sha512-6aTWpe2mHF0DhL28WjdkO8LyGjs3zItPET4bMSeXU6T3ub4FPMw+mcOcbdGXQOAfmLcxofD23/5Bl9Z4AkFwqg=="
   "resolved" "https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-24.9.0.tgz"
